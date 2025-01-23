@@ -1,5 +1,16 @@
 # next-docs-ui
 
+## 15.0.0
+
+### Major Changes
+
+- a84f37a: Migrate to Tailwind CSS v4
+
+### Patch Changes
+
+- Updated dependencies [a763058]
+  - fumadocs-core@15.0.0
+
 ## 14.7.7
 
 ### Patch Changes

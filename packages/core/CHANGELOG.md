@@ -1,5 +1,11 @@
 # next-docs-zeta
 
+## 15.0.0
+
+### Patch Changes
+
+- a763058: Support reversed rest items in `meta.json`
+
 ## 14.7.7
 
 ## 14.7.6
